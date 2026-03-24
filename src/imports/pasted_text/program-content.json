@@ -1,0 +1,273 @@
+Element ID	Section	Element Type	Hebrew Text	English Text	Russian Text	Notes/Context
+Navigation Bar	 	 	 	 	 	 
+NAV_01	Header	Logo Text	MITODERM	MITODERM	MITODERM	Logo
+NAV_02	Header	Nav Link	מוצרים	Products	Продукты	
+NAV_03	Header	Nav Link	מידע נוסף	More Info	Больше информации	
+NAV_04	Header	Nav Link	תוכנית	Agenda	Программа	
+NAV_05	Header	Nav Link	צור קשר	Contact us	Свяжитесь с нами	
+NAV_06	Header	Nav Link	תוצאות	Results	Результаты	
+NAV_07	Header	Nav Link	אודותינו	About us	О нас	
+NAV_08	Header	Language Switcher	EN	EN	EN	
+Hero Section	 	 	 	 	 	 
+HERO_01	Hero	Tab Button	תחום פנים	Face Treatments	Область лица	Tab toggle
+HERO_02	Hero	Tab Button	תחום קרקפת	Scalp Treatments	Область кожи головы	Tab toggle
+HERO_03	Hero	Main Heading	בחרו את ההשתלמות שמתאימה לכם	Choose the Training That's Right for You	Выберите подходящее обучение для вас	
+HERO_04	Hero	Sub-heading	
+ההשתלמויות במקצועיות ומיומנויות הכשרתיות – לקוסמטיקאיות, מעצבי שיער, וטרינרים ופרא-רפואיים
+Professional training and skill-building workshops – for cosmeticians, hair stylists, veterinarians and paramedics
+Профессиональные тренинги и мастер-классы – для косметологов, парикмахеров, ветеринаров и парамедиков
+HERO_05	Hero	CTA Button	הרשמה דרך WhatsApp	Register via WhatsApp	Регистрация через WhatsApp	WhatsApp icon — unique CTA
+Programs Section	 	 	 	 	 	 
+PROG_01	Programs	Section Heading	התוכניות שלנו	Our Programs	Наши программы	
+PROG_02	Programs	Section Sub-heading	ימי הדרכה והשתלמויות בתחומים שונים	Training days and workshops in various fields	Дни обучения и мастер-классы в различных областях	
+Program Card 1 — Hair Stylists	 	 	 	 	 	 
+CARD1_01	Card – Hair Stylists	Tag	הדרכה מקצועית	Professional Training	Профессиональное обучение	
+CARD1_02	Card – Hair Stylists	Card Title	יום הדרכה למעצבי שיער בתחום הקרקפת	Training Day for Hair Stylists in the Scalp Field	День обучения для парикмахеров в области кожи головы	
+CARD1_03	Card – Hair Stylists	Card Subtitle	היכרות עם עולם הקרקפת מזווית טריכולוגית מתקדמת	
+Introduction to the world of scalp care from an advanced trichological perspective
+Знакомство с миром кожи головы с позиции передовой трихологии	
+CARD1_04	Card – Hair Stylists	Bullet Point	הבנת הליכי נשירה וצמיחת שיער	Understanding hair loss and hair growth processes	Понимание процессов выпадения и роста волос	
+CARD1_05	Card – Hair Stylists	Bullet Point	יסודות מיקרונידלינג עבודה נכונה עם הקרקפת כחלק מטיפול השיער	
+Fundamentals of microneedling and proper scalp work as part of hair treatment
+Основы микронидлинга и правильная работа с кожей головы как часть лечения волос
+CARD1_06	Card – Hair Stylists	Bullet Point	אקסוזומים: שילוב פתרונות חדשניים לשיקום הקרקפת ולהאצת צמיחה	
+Exosomes: integrating innovative solutions for scalp restoration and accelerating growth
+Экзосомы: интеграция инновационных решений для восстановления кожи головы и ускорения роста
+CARD1_07	Card – Hair Stylists	Bullet Point	הפיכת ידע מקצועי לכלי בידול, תוצאות וערך מוסף ללקוחות	
+Turning professional knowledge into a differentiation tool, results and added value for clients
+Превращение профессиональных знаний в инструмент дифференциации, результаты и добавленная ценность для клиентов
+CARD1_08	Card – Hair Stylists	Button	לפרטים נוספים	More Details	Подробнее	CTA Type 2
+Program Card 2 — Face Cosmeticians	 	 	 	 	 	 
+CARD2_01	Card – Face	Tag	הדרכה מקצועית	Professional Training	Профессиональное обучение	
+CARD2_02	Card – Face	Card Title	יום הדרכה לקוסמטיקאיות בתחום הפנים	Training Day for Cosmeticians in the Facial Field	День обучения для косметологов в области лица	
+CARD2_03	Card – Face	Card Subtitle	מזמינים אותך להכיר את הדור החדש של האסתטיקה המקצועית	
+We invite you to discover the new generation of professional aesthetics
+Приглашаем вас познакомиться с новым поколением профессиональной эстетики	
+CARD2_04	Card – Face	Bullet Point	הכרות עם עולם האקסוזומים וביולוגיה של העור	Introduction to the world of exosomes and skin biology	Знакомство с миром экзосом и биологией кожи	
+CARD2_05	Card – Face	Bullet Point	כיצד האקסוזומים מתקשרים ומחדשים את התאים	How exosomes communicate with and renew cells	Как экзосомы взаимодействуют с клетками и обновляют их	
+CARD2_06	Card – Face	Bullet Point	היתרונות הקליניים של אקסוזומים סינתטיים ויציבים	The clinical advantages of synthetic and stable exosomes	Клинические преимущества синтетических и стабильных экзосом	
+CARD2_07	Card – Face	Bullet Point	פרוטוקולים מותאמים לאפקטיביות מרבית	Protocols tailored for maximum effectiveness	Протоколы, адаптированные для максимальной эффективности	
+CARD2_08	Card – Face	Bullet Point	שילוב הטיפולים לבידול הקליניקה	Integrating treatments for clinic differentiation	Интеграция процедур для дифференциации клиники	
+CARD2_09	Card – Face	Bullet Point	הרצאות שמועברות להרבה רופאים בעולם	Lectures delivered to many doctors around the world	Лекции, которые проводятся для многих врачей по всему миру	
+CARD2_10	Card – Face	Bullet Point	
+חומרים וטכנולוגיות חדשניות כמו PDRN, אקסוזומים סינתטיים ופפטידים ביומימטיים. תיאוריות הזדקנות, מחקרים אחרונים.
+Innovative materials and technologies such as PDRN, synthetic exosomes and biomimetic peptides. Aging theories, latest research.
+Инновационные материалы и технологии, такие как PDRN, синтетические экзосомы и биомиметические пептиды. Теории старения, последние исследования.
+CARD2_11	Card – Face	Button	לפרטים נוספים	More Details	Подробнее	CTA Type 2
+Program Card 3 — Scalp Cosmeticians	 	 	 	 	 	 
+CARD3_01	Card – Scalp	Tag	הדרכה מקצועית	Professional Training	Профессиональное обучение	
+CARD3_02	Card – Scalp	Card Title	יום הדרכה לקוסמטיקאיות בתחום הקרקפת	Training Day for Cosmeticians in the Scalp Field	День обучения для косметологов в области кожи головы	
+CARD3_03	Card – Scalp	Card Subtitle	השתלמות מקצועית והרחבת ידע	Professional development and knowledge expansion	Профессиональное развитие и расширение знаний	
+CARD3_04	Card – Scalp	Bullet Point	הבנת תהליכים ביולוגיים ומה משפיע על הנשירה כולל בדיקות דם ומחלות	
+Understanding biological processes and what affects hair loss, including blood tests and diseases
+Понимание биологических процессов и факторов выпадения волос, включая анализы крови и заболевания
+CARD3_05	Card – Scalp	Bullet Point	שימוש באקסוזומים לשיקום הקרקפת והאצת צמיחת שיער	Using exosomes for scalp restoration and accelerating hair growth	
+Использование экзосом для восстановления кожи головы и ускорения роста волос
+CARD3_06	Card – Scalp	Bullet Point	אבחון מצבי קרקפת והתאמת פרוטוקולים קליניים יעילים	
+Diagnosing scalp conditions and tailoring effective clinical protocols
+Диагностика состояний кожи головы и подбор эффективных клинических протоколов
+CARD3_07	Card – Scalp	Bullet Point	מיקרונידלינג עבודה נכונה ומדויקת עם הקרקפת	Microneedling: proper and precise work with the scalp	Микронидлинг: правильная и точная работа с кожей головы	
+CARD3_08	Card – Scalp	Bullet Point	שילוב הטיפולים בקליניקה ליצירת תוצאות ומכירות	Integrating treatments in the clinic to generate results and sales	
+Интеграция процедур в клинике для достижения результатов и увеличения продаж
+CARD3_09	Card – Scalp	Button	לפרטים נוספים	More Details	Подробнее	CTA Type 2
+WhatsApp CTA	 	 	 	 	 	 
+WA_01	WhatsApp CTA	Text	לא בטוחים איזו תוכנית מתאימה לכם?	Not sure which program is right for you?	Не уверены, какая программа вам подходит?	
+WA_02	WhatsApp CTA	Link Text	שלחו לנו הודעה ב-WhatsApp	Send us a message on WhatsApp	Напишите нам в WhatsApp	Clickable link
+Benefits Bar	 	 	 	 	 	 
+BEN_01	Benefits Bar	Benefit Title	אסתטיקה מתקדמת	Advanced Aesthetics	Передовая эстетика	
+BEN_02	Benefits Bar	Benefit Subtitle	טכניקות עדכניות ומדעיות	Up-to-date and science-based techniques	Современные научные методики	
+BEN_03	Benefits Bar	Benefit Title	מרצים מומחים	Expert Lecturers	Эксперты-лекторы	
+BEN_04	Benefits Bar	Benefit Subtitle	הובלה מקצועית והרחבת הידע	Professional leadership and knowledge expansion	Профессиональное руководство и расширение знаний	
+BEN_05	Benefits Bar	Benefit Title	פרקטיקה קלינית	Clinical Practice	Клиническая практика	
+BEN_06	Benefits Bar	Benefit Subtitle	התנסות מעשית והתאמת פרוטוקולים	Hands-on experience and protocol customization	Практический опыт и адаптация протоколов	
+BEN_07	Benefits Bar	Benefit Title	תעודות השתתפות	Certificates of Participation	Сертификаты об участии	
+BEN_08	Benefits Bar	Benefit Subtitle	הסמכה מקצועית	Professional certification	Профессиональная сертификация	
+Detail — Hair Stylists Conference (Left Card)	 	 	 	 	 	 
+HS_BANNER_01	Hair Stylists – Banner	Heading	חברת MitoDerm מזמינה אותך לכנס בוטיק למובילים בתחום האסתטיקה בישראל	
+MitoDerm company invites you to a boutique conference for leaders in the field of aesthetics in Israel
+Компания MitoDerm приглашает вас на бутик-конференцию для лидеров в области эстетики в Израиле
+HS_BANNER_02	Hair Stylists – Banner	Sub-heading	
+בכנס תכירו את הטכנולוגיה פורצת הדרך! הכנס הזה יפתח לכם את הדלת לעולם הטיפולים החדשניים, שהם מה שהלקוחות באמת רוצים ומחפשים, יחד עם קיצור משמעותי בזמן העבודה, עלייה מקבילה ברווחים וזמן התאוששות מהיר יותר בהשוואה לטיפולים מסורתיים ופשוטים יותר
+At the conference, you'll be introduced to this breakthrough technology! This conference will open the door for you to the world of innovative treatments, which are what clients really want and look for, along with a significant reduction in working time, corresponding increase in profits, and faster recovery time compared to traditional and simpler treatments
+На конференции вы познакомитесь с этой прорывной технологией! Конференция откроет для вас дверь в мир инновационных процедур — именно то, что клиенты действительно хотят и ищут, — вместе со значительным сокращением времени работы, соответствующим ростом прибыли и более быстрым восстановлением по сравнению с традиционными и более простыми процедурами
+HS_BANNER_03	Hair Stylists – Banner	Button	צרו קשר	Contact Us	Свяжитесь с нами	CTA Type 3
+HS_TOPICS_01	Hair Stylists – Topics	Section Heading	נושאים שנלמד:	Topics We'll Cover:	Темы, которые мы изучим:	
+HS_TOPICS_02	Hair Stylists – Topics	Topic Item	הבנת הקרקפת כמערכת ביולוגית חיה, מבנה הקרקפת וזקיק השערה.	
+Understanding the scalp as a living biological system, scalp structure and hair follicle.
+Понимание кожи головы как живой биологической системы, строение кожи головы и волосяного фолликула.
+HS_TOPICS_03	Hair Stylists – Topics	Topic Item	תהליכי נשירה ואבחון – הקשר בין עור, דלקת, סטרס והשפעת הזקיק	
+Hair loss processes and diagnosis – the connection between skin, inflammation, stress and follicle impact
+Процессы выпадения волос и диагностика – связь между кожей, воспалением, стрессом и влиянием на фолликул
+HS_TOPICS_04	Hair Stylists – Topics	Topic Item	
+אקסוזומים וטכנולוגיה מתקדמת בקרקפת – מה הם אקסוזומים ואיך הם פועלים ברמת התא
+Exosomes and advanced scalp technology – what are exosomes and how they work at the cellular level
+Экзосомы и передовые технологии для кожи головы – что такое экзосомы и как они работают на клеточном уровне
+HS_TOPICS_05	Hair Stylists – Topics	Topic Item	יתרונות מקור סינתטי ויציב: שיקום קרקפת, חיזוק זקיקים והתאמת צמיחה	
+Advantages of a synthetic and stable source: scalp restoration, follicle strengthening and growth optimization
+Преимущества синтетического и стабильного источника: восстановление кожи головы, укрепление фолликулов и оптимизация роста
+HS_TOPICS_06	Hair Stylists – Topics	Topic Item	
+פרקטיקה קלינית ופרוטוקולים: שילוב אקסוזומים בטיפולי קרקפת – הוכחת טיפול לפי אבחון יחד עם המצלמה
+Clinical practice and protocols: integrating exosomes in scalp treatments – treatment validation by diagnosis together with the camera
+Клиническая практика и протоколы: интеграция экзосом в процедуры для кожи головы – подтверждение лечения по диагностике совместно с камерой
+HS_TOPICS_07	Hair Stylists – Topics	Topic Item	
+בידול, תוצאות וערך עסקי: שילוב הטיפול בעסק – איך להציע טיפול קרקפת נכון, בידול מקצועי מול המתחרים, יצירת תוצאות, אמון ומכירות
+Differentiation, results and business value: integrating the treatment into your business – how to offer proper scalp treatment, professional differentiation from competitors, generating results, trust and sales
+Дифференциация, результаты и бизнес-ценность: интеграция процедуры в бизнес – как предложить правильное лечение кожи головы, профессиональное отличие от конкурентов, создание результатов, доверия и продаж
+HS_TOPICS_08	Hair Stylists – Topics	Button	הירשמו עכשיו	Register Now	Зарегистрироваться	CTA Type 1
+Detail — Face Course (Middle Card)	 	 	 	 	 	 
+FC_BANNER_01	Face Course – Banner	Heading	MitoDerm מזמינה אותך לקורס מקצועי ומקיף בתחום הקוסמטיקה הרפואית	
+MitoDerm invites you to a professional and comprehensive course in the field of medical cosmetology
+MitoDerm приглашает вас на профессиональный и всесторонний курс в области медицинской косметологии
+FC_BANNER_02	Face Course – Banner	Sub-heading	
+קורס בן 180 שעות המשלב ידע תיאורטי מעמיק עם פרקטיקה נרחבת. תלמדו טכניקות מתקדמות, תכירו את הטכנולוגיות החדישות ביותר ותקבלו כלים מקצועיים להצלחה בתחום
+A 180-hour course combining in-depth theoretical knowledge with extensive practice. You'll learn advanced techniques, get to know the latest technologies and receive professional tools for success in the field
+Курс из 180 часов, сочетающий глубокие теоретические знания с обширной практикой. Вы освоите передовые техники, познакомитесь с новейшими технологиями и получите профессиональные инструменты для успеха в этой области
+FC_BANNER_03	Face Course – Banner	Button	לפרטים נוספים	More Details	Подробнее	CTA Type 2
+FC_CURRIC_01	Face Course – Curriculum	Section Heading	תכנית הלימודים:	Curriculum:	Учебная программа:	
+FC_CURRIC_02	Face Course – Curriculum	Curriculum Item	
+הבנת העור כמערכת ביולוגית חיה: תהליכי הזדקנות העור והקשר בין דלקת כרונית, סטרס, ירידה בתקשורת תאית ופגיעה באיכות הקולגן
+Understanding the skin as a living biological system: skin aging processes and the connection between chronic inflammation, stress, decline in cellular communication and collagen quality damage
+Понимание кожи как живой биологической системы: процессы старения кожи и связь между хроническим воспалением, стрессом, снижением клеточной коммуникации и ухудшением качества коллагена
+FC_CURRIC_03	Face Course – Curriculum	Curriculum Item	טיפולים קוסמטיים מתקדמים – פילינגים, מזותרפיה וטיפולים משולבים	
+Advanced cosmetic treatments – peelings, mesotherapy and combined treatments
+Продвинутые косметические процедуры – пилинги, мезотерапия и комбинированные процедуры
+FC_CURRIC_04	Face Course – Curriculum	Curriculum Item	אקסוזומים וטכנולוגיות ביולוגיות – הדור החדש של טיפולים אסתטיים	
+Exosomes and biological technologies – the new generation of aesthetic treatments
+Экзосомы и биологические технологии – новое поколение эстетических процедур
+FC_CURRIC_05	Face Course – Curriculum	Curriculum Item	מיקרונידלינג מקצועי – טכניקות, פרוטוקולים ויישומים מעשיים	
+Professional microneedling – techniques, protocols and practical applications
+Профессиональный микронидлинг – техники, протоколы и практическое применение
+FC_CURRIC_06	Face Course – Curriculum	Curriculum Item	ניהול קליניקה עצמאית – שיווק, מכירות ובניית מותג אישי	
+Managing an independent clinic – marketing, sales and personal brand building
+Управление независимой клиникой – маркетинг, продажи и построение личного бренда
+FC_CURRIC_07	Face Course – Curriculum	Curriculum Item	פרקטיקה קלינית נרחבת – תרגול על מודלים אמיתיים עם ליווי צמוד	
+Extensive clinical practice – practicing on real models with close guidance
+Обширная клиническая практика – тренировка на реальных моделях с индивидуальным сопровождением
+FC_CURRIC_08	Face Course – Curriculum	Button	הירשמו עכשיו	Register Now	Зарегистрироваться	CTA Type 1
+Detail — Scalp Academy (Right Card)	 	 	 	 	 	 
+SA_BANNER_01	Scalp Academy – Banner	Heading	MitoDerm Academy מציגה את התכנית המקצועית המתקדמת ביותר בישראל	
+MitoDerm Academy presents the most advanced professional program in Israel
+MitoDerm Academy представляет самую передовую профессиональную программу в Израиле
+SA_BANNER_02	Scalp Academy – Banner	Sub-heading	
+תכנית של 480 שעות המשלבת לימוד אקדמי מעמיק, התמחות קלינית, בניית תיק עבודות מקצועי וליווי עסקי להקמת קליניקה עצמאית. המסלול המלא להצלחה מקצועית
+A 480-hour program combining in-depth academic study, clinical specialization, building a professional portfolio and business guidance for establishing an independent clinic. The complete track for professional success
+Программа из 480 часов, сочетающая углублённое академическое обучение, клиническую специализацию, создание профессионального портфолио и бизнес-сопровождение для открытия собственной клиники. Полный путь к профессиональному успеху
+SA_BANNER_03	Scalp Academy – Banner	Button	צרו קשר	Contact Us	Свяжитесь с нами	CTA Type 3
+SA_CURRIC_01	Scalp Academy – Curriculum	Section Heading	תכנית הלימודים המקיפה:	Comprehensive Curriculum:	Комплексная учебная программа:	
+SA_CURRIC_02	Scalp Academy – Curriculum	Curriculum Item	
+הבנת נשירת שיער מזוויות מקצועיות – מחזור חיי השערה, סוגי נשירה נפוצים, מתי הבעיה בקרקפת ומתי בזקיק
+Understanding hair loss from professional perspectives – hair life cycle, common types of hair loss, when the problem is in the scalp and when in the follicle
+Понимание выпадения волос с профессиональной точки зрения – жизненный цикл волос, распространённые типы выпадения, когда проблема в коже головы и когда в фолликуле
+SA_CURRIC_03	Scalp Academy – Curriculum	Curriculum Item	קרקפת כבסיס לשער בריא – אבחון מצבי קרקפת בעזרת מצלמה.	
+The scalp as the foundation for healthy hair – diagnosing scalp conditions using a camera.
+Кожа головы как основа здоровых волос – диагностика состояний кожи головы с помощью камеры.
+SA_CURRIC_04	Scalp Academy – Curriculum	Curriculum Item	
+אקסוזומים, מיקרונידלינג וטכנולוגיה מתקדמת: איך טכנולוגיה ביולוגית פוגשת את עולם המספרה
+Exosomes, microneedling and advanced technology: how biological technology meets the world of hairdressing
+Экзосомы, микронидлинг и передовые технологии: как биологические технологии встречаются с миром парикмахерского искусства
+SA_CURRIC_05	Scalp Academy – Curriculum	Curriculum Item	
+התאמת טיפול לפי אבחון: שילוב מיקרונידלינג וטכנולוגיות משלימות: עבודה בטוחה ומדויקת
+Tailoring treatment by diagnosis: combining microneedling and complementary technologies: safe and precise work
+Подбор лечения по диагностике: сочетание микронидлинга и дополнительных технологий: безопасная и точная работа
+SA_CURRIC_06	Scalp Academy – Curriculum	Curriculum Item	פרקטיקה קלינית ופרוטוקולים: שילוב אקסוזומים בטיפולי קרקפת – מעשי	
+Clinical practice and protocols: integrating exosomes in scalp treatments – hands-on
+Клиническая практика и протоколы: интеграция экзосом в процедуры для кожи головы – практическое занятие
+SA_CURRIC_07	Scalp Academy – Curriculum	Curriculum Item	
+בידול, תוצאות וערך עסקי: שילוב הטיפול בעסק – איך להציע טיפול קרקפת נכון, בידול מקצועי מול המתחרים, יצירת תוצאות, אמון ומכירות
+Differentiation, results and business value: integrating the treatment into your business – how to offer proper scalp treatment, professional differentiation from competitors, generating results, trust and sales
+Дифференциация, результаты и бизнес-ценность: интеграция процедуры в бизнес – как предложить правильное лечение кожи головы, профессиональное отличие от конкурентов, создание результатов, доверия и продаж
+SA_CURRIC_08	Scalp Academy – Curriculum	Button	צרו קשר	Contact Us	Свяжитесь с нами	CTA Type 3
+Course Details — Location & Date	 	 	 	 	 	 
+COURSE_01	Course Details	Section Heading	פרטי הקורס	Course Details	Детали курса	
+COURSE_02	Course Details	Section Sub-heading	בחר מיקום ותאריך מועדף	Choose your preferred location and date	Выберите предпочтительное место и дату	
+COURSE_03	Course Details	Badge	מומלץ	Recommended	Рекомендуется	Yellow badge
+COURSE_04	Course Details	Location Name	תל אביב	Tel Aviv	Тель-Авив	
+COURSE_05	Course Details	Date	15.04.26	15.04.26	15.04.26	
+COURSE_06	Course Details	Time	10:00 - 14:00	10:00 - 14:00	10:00 - 14:00	
+COURSE_07	Course Details	Location Name	ירושלים	Jerusalem	Иерусалим	
+COURSE_08	Course Details	Date	22.04.26	22.04.26	22.04.26	
+COURSE_09	Course Details	Location Name	חיפה	Haifa	Хайфа	
+COURSE_10	Course Details	Date	29.04.26	29.04.26	29.04.26	
+COURSE_11	Course Details	Location Name	באר שבע	Beer Sheva	Беэр-Шева	
+COURSE_12	Course Details	Date	06.05.26	06.05.26	06.05.26	
+COURSE_13	Course Details	Button	הירשמו עכשיו	Register Now	Зарегистрироваться	CTA Type 1
+Past Workshops Gallery	 	 	 	 	 	 
+GALLERY_01	Past Workshops	Section Heading	תמונות מהשתלמויות קודמות	Photos from Previous Workshops	Фотографии с прошлых мастер-классов	
+GALLERY_02	Past Workshops	Section Sub-heading	צפו ברגעים מיוחדים מהאירועים שלנו	Watch special moments from our events	Смотрите особенные моменты с наших мероприятий	
+GALLERY_03	Past Workshops	Photo Label – Date	נובמבר 2023	November 2023	Ноябрь 2023	
+GALLERY_04	Past Workshops	Photo Label – City	באר שבע	Beer Sheva	Беэр-Шева	
+GALLERY_05	Past Workshops	Photo Label – Date	דצמבר 2023	December 2023	Декабрь 2023	
+GALLERY_06	Past Workshops	Photo Label – City	ירושלים	Jerusalem	Иерусалим	
+GALLERY_07	Past Workshops	Photo Label – Date	ינואר 2024	January 2024	Январь 2024	
+GALLERY_08	Past Workshops	Photo Label – City	חיפה	Haifa	Хайфа	
+GALLERY_09	Past Workshops	Photo Label – Date	2024	2024	2024	
+GALLERY_10	Past Workshops	Photo Label – City	תל אביב	Tel Aviv	Тель-Авив	
+Why Choose Us	 	 	 	 	 	 
+WHY_01	Why Choose Us	Section Heading	למה לבחור בנו?	Why Choose Us?	Почему выбирают нас?	
+WHY_02	Why Choose Us	Section Sub-heading	היתרונות שיעזרו לך להצליח	The advantages that will help you succeed	Преимущества, которые помогут вам преуспеть	
+WHY_03	Why Choose Us	Icon Label	מוצרים חדשניים	Innovative Products	Инновационные продукты	Icon: medal/person
+WHY_04	Why Choose Us	Icon Label	נטוורקינג עם אנשי מקצוע	Networking with Professionals	Нетворкинг с профессионалами	Icon: group
+WHY_05	Why Choose Us	Icon Label	צמיחה אישית	Personal Growth	Личностный рост	Icon: hourglass/person
+WHY_06	Why Choose Us	Icon Label	המפיץ הרשמי האיטלקי בישראל	Official Italian Distributor in Israel	Официальный итальянский дистрибьютор в Израиле	Icon: target
+WHY_07	Why Choose Us	Icon Label	הצעה מוגבלת	Limited Offer	Ограниченное предложение	Icon: lightning
+Why MitoDerm	 	 	 	 	 	 
+WHYMD_01	Why MitoDerm	Heading	למה MitoDerm היא הבחירה הנכונה עבורך?	Why Is MitoDerm the Right Choice for You?	Почему MitoDerm — правильный выбор для вас?	
+WHYMD_02	Why MitoDerm	Paragraph	
+אנחנו היחידים בישראל שמשלבים בקורס פרונטלי טכנולוגיות אקסוזומים מתקדמות עם ליווי אישי וכלים מקצועיים לכל תלמיד
+We are the only ones in Israel who combine advanced exosome technologies with personal guidance and professional tools for every student in an in-person course
+Мы единственные в Израиле, кто объединяет передовые технологии экзосом с личным сопровождением и профессиональными инструментами для каждого студента в очном курсе
+Student Results	 	 	 	 	 	 
+RESULTS_01	Student Results	Section Heading	תוצאות התלמידים שלנו	Our Students' Results	Результаты наших студентов	
+RESULTS_02	Student Results	Label	לפני	Before	До	
+RESULTS_03	Student Results	Label	אחרי	After	После	
+RESULTS_04	Student Results	Counter	1 / 14	1 / 14	1 / 14	Dynamic
+RESULTS_05	Student Results	Button	הירשמו עכשיו	Register Now	Зарегистрироваться	CTA Type 1
+What You'll Learn	 	 	 	 	 	 
+LEARN_01	What You'll Learn	Section Heading	מה תלמדו בקורס?	What Will You Learn in the Course?	Чему вы научитесь на курсе?	
+LEARN_02	What You'll Learn	Section Sub-heading	תכנית לימודים מקיפה המשלבת תיאוריה מעשית ופרקטיקה מתקדמת	
+A comprehensive curriculum combining practical theory and advanced practice
+Комплексная учебная программа, сочетающая практическую теорию и продвинутую практику
+LEARN_03	What You'll Learn	Card Title	בסיס תיאורטי	Theoretical Foundation	Теоретическая основа	
+LEARN_04	What You'll Learn	Card Description	מעמיקה של אנטומיה, פיזיולוגיה ומבנה העור והפנים	
+In-depth study of anatomy, physiology and structure of the skin and face
+Углублённое изучение анатомии, физиологии и строения кожи и лица	
+LEARN_05	What You'll Learn	Card Title	פרקטיקה מעשית	Hands-On Practice	Практическое обучение	
+LEARN_06	What You'll Learn	Card Description	תרגול נרחב על מודלים אמיתיים עם ליווי מומחים מנוסים	
+Extensive practice on real models with guidance from experienced experts
+Обширная практика на реальных моделях с сопровождением опытных экспертов	
+LEARN_07	What You'll Learn	Card Title	טכנולוגיות מתקדמות	Advanced Technologies	Передовые технологии	
+LEARN_08	What You'll Learn	Card Description	היכרות והתנסות עם הציוד והמוצרים המתקדמים ביותר	
+Introduction and hands-on experience with the most advanced equipment and products
+Знакомство и практический опыт работы с самым передовым оборудованием и продуктами
+LEARN_09	What You'll Learn	Bottom Note	בסיום הקורס תקבלו תעודה מוכרת וכלים להתחלת קריירה מוצלחת	
+Upon completion of the course, you'll receive a recognized certificate and tools to start a successful career
+По окончании курса вы получите признанный сертификат и инструменты для начала успешной карьеры
+Numbers Speak	 	 	 	 	 	 
+STATS_01	Numbers Speak	Section Heading	המספרים מדברים בעד עצמם	The Numbers Speak for Themselves	Цифры говорят сами за себя	
+STATS_02	Numbers Speak	Section Sub-heading	הצלחה שנמדדת בתוצאות אמיתיות	Success measured by real results	Успех, измеряемый реальными результатами	
+STATS_03	Numbers Speak	Stat Number	+15	15+	15+	
+STATS_04	Numbers Speak	Stat Label	שנות ניסיון	Years of Experience	Лет опыта	
+STATS_05	Numbers Speak	Stat Number	+50	50+	50+	
+STATS_06	Numbers Speak	Stat Label	סדנאות הצלחה	Successful Workshops	Успешных мастер-классов	
+STATS_07	Numbers Speak	Stat Number	98%	98%	98%	
+STATS_08	Numbers Speak	Stat Label	שביעות רצון	Satisfaction Rate	Уровень удовлетворённости	
+Contact	 	 	 	 	 	 
+CONTACT_01	Contact	Section Heading	צור קשר	Contact Us	Связаться с нами	
+CONTACT_02	Contact	Label	טלפון	Phone	Телефон	
+CONTACT_03	Contact	Text	לכל הפרטים: 054-326-2182	For all details: 054-326-2182	Для подробностей: 054-326-2182	
+CONTACT_04	Contact	Label	כתובת	Address	Адрес	
+CONTACT_05	Contact	Text	רפאל איתן 38, רמת גן, 5590500	Rafael Eitan 38, Ramat Gan, 5590500	ул. Рафаэль Эйтан 38, Рамат-Ган, 5590500	
+CONTACT_06	Contact	Label	אימייל	Email	Электронная почта	
+CONTACT_07	Contact	Text	Mitoderm@gmail.com	Mitoderm@gmail.com	Mitoderm@gmail.com	
+CONTACT_08	Contact	Label	עקבו אחרינו	Follow Us	Подписывайтесь на нас	Facebook, Instagram, TikTok, Google
+Final CTA Banner	 	 	 	 	 	 
+FCTA_01	Final CTA	Heading	מוכנים להתחיל את המסע המקצועי שלכם?	Ready to Start Your Professional Journey?	Готовы начать свой профессиональный путь?	
+FCTA_02	Final CTA	Sub-heading	הצטרפו לבוגרים המצליחים שלנו	Join our successful graduates	Присоединяйтесь к нашим успешным выпускникам	Softened — removed 'thousands'
+FCTA_03	Final CTA	Button	הירשמו עכשיו	Register Now	Зарегистрироваться	CTA Type 1
+Footer	 	 	 	 	 	 
+FOOTER_01	Footer	Copyright	© 2026 MITODERM. כל הזכויות שמורות.	© 2026 MITODERM. All Rights Reserved.	© 2026 MITODERM. Все права защищены.	
+FOOTER_02	Footer	Description	
+חברה בת של קבוצה גלובלית המתמחה בציוד רפואי ופתרונות אסתטיים מתקדמים
+A subsidiary of a global group specializing in medical equipment and advanced aesthetic solutions
+Дочерняя компания глобальной группы, специализирующейся на медицинском оборудовании и передовых эстетических решениях
+FOOTER_03	Footer	Credit	Made with ❤ by MitoDerm Team	Made with ❤ by MitoDerm Team	Made with ❤ by MitoDerm Team	
